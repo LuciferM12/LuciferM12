@@ -20,7 +20,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciferM12)](https://github.com/LuciferM12/github-readme-stats)
 
-[![LuciferM12's time stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuciferM12)](https://github.com/LuciferM12/github-readme-stats)
+[![LuciferM12's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuciferM12)](https://github.com/LuciferM12/github-readme-stats)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=LuciferM12&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8)<br><br>-->
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=LuciferM12)  
