@@ -9,7 +9,7 @@
 <p>Soy un estudiante de la Ingenieria en Tecnologías de la Información de la UPSLP, apasionado de la programación web y el desarrollo de software</p>
 <!--- snake -->
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
+  <img src="grid-snake.svg" alt="snake" />
 </div>
 
 <h1 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h1>
